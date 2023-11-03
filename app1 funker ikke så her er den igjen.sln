@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app1 funker ikke så her er den igjen", "app1 funker ikke så her er den igjen\app1 funker ikke så her er den igjen.csproj", "{15F86A4D-917E-4269-A042-746513BC391D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15F86A4D-917E-4269-A042-746513BC391D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15F86A4D-917E-4269-A042-746513BC391D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15F86A4D-917E-4269-A042-746513BC391D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15F86A4D-917E-4269-A042-746513BC391D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB9A0B4B-E151-4E7D-A026-077020ECA268}
+	EndGlobalSection
+EndGlobal
